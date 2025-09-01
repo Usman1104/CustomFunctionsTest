@@ -4,7 +4,7 @@
         {
             "description": "Add two numbers",
             "id": "ADD",
-            "name": "ADDME",
+            "name": "ADD",
             "parameters": [
                 {
                     "description": "First number",
